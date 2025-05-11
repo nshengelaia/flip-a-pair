@@ -15,7 +15,7 @@ Flip two cards at a time, match pairs, and beat the clock — all in a single 60
 
 If you don’t want to install Python, just download and run:
 
-[Flip a Pair Standalone Installer.exe](https://github.com/nshengelaia/flip-a-pair/releases/Flip-a-Pair-Standalone-Installer.exe)
+[Flip a Pair Standalone Installer.exe](https://github.com/nshengelaia/flip-a-pair/raw/main/releases/Flip-a-Pair-Standalone-Installer.exe)
 
 No setup required. Works on Windows 10/11.
 
